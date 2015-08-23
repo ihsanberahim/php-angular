@@ -1,0 +1,9 @@
+/node_modules
+/dist
+/.tmp
+/.sass-cache
+/bower_components
+/angular-package
+/composer.lock
+/php_errors.log
+/vendor

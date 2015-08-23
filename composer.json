@@ -1,0 +1,21 @@
+{
+    "name": "ihsanberahim/ihsanberahim.com",
+    "description": "personal website",
+    "type": "website",
+    "authors": [
+        {
+            "name": "Muhammad Nur'Ihsan Berahim",
+            "email": "ihsanberahim@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "2.*",
+        "symfony/finder": "^2.7",
+        "aura/session": "2.*",
+        "zf1/zend-db": "1.*",
+        "curl/curl": "1.*",
+        "facebook/php-sdk-v4": "4.0.*",
+        "tivie/htaccess-parser": "0.*",
+        "slim/views": "^0.1.3"
+    }
+}
